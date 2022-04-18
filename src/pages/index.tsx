@@ -6,7 +6,7 @@ import ButtonTest from '../components/ButtonTest';
 const Home: NextPage = () => {
    return (
       <div className="w-screen h-screen flex justify-center items-center">
-         <ButtonTest />
+         <ButtonTest text="Click Me" />
       </div>
    );
 };
