@@ -4,14 +4,14 @@ import Head from 'next/head';
 import AppProvider from '../utils/ContextProviderTemplate';
 
 function MyApp({ Component, pageProps }: AppProps) {
-   return (
-      <AppProvider>
-         <Head>
-            <title>Title</title>
-         </Head>
-         <Component {...pageProps} />
-      </AppProvider>
-   );
+  return (
+    <AppProvider>
+      <Head>
+        <title>Title</title>
+      </Head>
+      <Component {...pageProps} />
+    </AppProvider>
+  );
 }
 
 export default MyApp;

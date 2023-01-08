@@ -2,7 +2,7 @@
 // rename AppProvider.tsx if gonna use this
 
 const PutSomethingHere: React.FC = () => {
-   return <></>;
+  return <></>;
 };
 
 export default PutSomethingHere;
