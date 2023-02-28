@@ -16,6 +16,6 @@ To enforce consistent syntax when collaborating, run script below to lint and fo
 
 ## Things to add later
 
-- consider making a reducer HOC template for AppProvider
-- create a formatted local environment variables template for api keys, etc
-- different branches for different workflows for 3rd party APIs (contentful, etc)
+- storybook
+- test environment 
+- tailwind dark mode instead?
