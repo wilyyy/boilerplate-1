@@ -19,3 +19,4 @@ To enforce consistent syntax when collaborating, run script below to lint and fo
 - storybook
 - test environment 
 - tailwind dark mode instead?
+- different variant (branch?) for serverless & serverful backends
